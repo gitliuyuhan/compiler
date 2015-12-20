@@ -4,6 +4,7 @@
 #include<cctype>
 #include<vector>
 #include<stack>
+#include<stdlib.h>
 
 #define K_DIGIT       3      //整数
 #define K_CHAR        4      //字符
